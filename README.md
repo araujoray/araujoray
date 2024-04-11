@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @araujoray, 
-- I'm kinda new in all those things, have nooo ideia whats is going on
-- English is not my first language, I'm brazilian
-- i'm going to start a course about TI, and I'm really curious about it, hope this site help me to improve my skills (that I don't actually have)
+
